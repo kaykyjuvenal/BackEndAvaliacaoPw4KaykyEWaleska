@@ -1,0 +1,52 @@
+{
+  "Medicos": [
+    {
+      "Usuario": "diana.green123",
+      "Senha": "DianaPass123!",
+      "TipoDeAcesso": "Medico"
+    },
+    {
+      "Usuario": "george.adams321",
+      "Senha": "GeorgePass321!",
+      "TipoDeAcesso": "Medico"
+    }
+  ],
+  "Pacientes": [
+    {
+      "Usuario": "jane.smith456",
+      "Senha": "SecurePass456!",
+      "TipoDeAcesso": "Paciente"
+    },
+    {
+      "Usuario": "bob.brown654",
+      "Senha": "BobPass654!",
+      "TipoDeAcesso": "Paciente"
+    },
+    {
+      "Usuario": "ethan.white456",
+      "Senha": "EthanPass456!",
+      "TipoDeAcesso": "Paciente"
+    },
+    {
+      "Usuario": "sdasdas",
+      "Senha": "sadasd"
+    }
+  ],
+  "Administradores": [
+    {
+      "Usuario": "admin.user789",
+      "Senha": "AdminPass789!",
+      "TipoDeAcesso": "Administrador"
+    },
+    {
+      "Usuario": "charlie.davis987",
+      "Senha": "CharliePass987!",
+      "TipoDeAcesso": "Administrador"
+    },
+    {
+      "Usuario": "fiona.martin789",
+      "Senha": "FionaPass789!",
+      "TipoDeAcesso": "Administrador"
+    }
+  ]
+}
